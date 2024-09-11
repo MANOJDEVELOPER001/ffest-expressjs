@@ -1,0 +1,74 @@
+header{
+    background-color: rgb(58, 55, 55);
+    height:100px;
+}
+.div1{
+    position:relative;
+    top:40px;
+}
+.about{
+    position: relative;
+    left:1250px;
+    color:white;
+    text-decoration: none;
+}
+.contact{
+    position:relative;
+    left:1250px;
+    color:white;
+    text-decoration: none;
+}
+.museum{
+    position:relative;
+    left:1310px;
+    color:white;
+    text-decoration: none;
+}
+.login{
+    position:relative;
+    left:1530px;
+    color:white;
+    text-decoration: none;
+}
+.home{
+    position:relative;
+    left:-80px;
+    color:white;
+    text-decoration: none;
+}
+.model{
+    position:relative;
+    left:-120px;
+    color:white;
+    text-decoration: none;
+}
+img > .image1{
+    position:relative;
+}
+div > .animation1{
+    border-bottom:3px solid white;
+}
+.anime1{
+    height:700px;
+}
+ul{
+    font-size:20px;
+    display: none;
+    position: relative;
+    top:50px;
+    left:350px;
+    background-color: aqua;
+    padding-top:100px;
+}
+ul > .two{
+    position: relative;
+    top:30px;
+}
+ul > .three{
+    position:relative;
+    top:60px;
+}
+ul > .four{
+    position:relative;
+    top:90px;
+}
